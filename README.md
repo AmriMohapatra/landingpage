@@ -26,3 +26,7 @@ If you are here to improve the leapcode landing page, here is how to setup your 
 3.  Install ``` yarn: npm install -g yarn ```
 4.  Install the dependencies: ``` yarn ```
 5.  Run ``` yarn start ```
+6.  Install HTMl 
+7.  create a file with .html extension 
+8.  Install VS Code 
+9.  open the file
